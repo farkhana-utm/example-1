@@ -29,3 +29,13 @@ Ada banyak variasi tulisan Lorem Ipsum yang tersedia, tapi kebanyakan sudah meng
   - Sub list 2
 
 [goto Google](http://wwww.google.com)
+
+I just love **bold text**.<br>
+I just love __bold text__.<br>
+Love **is** bold<br>
+
+Italicized text is the *cat's meow*.<br>
+Italicized text is the _cat's meow_.<br>
+A *cat* meow<br>
+
+This text is ***really important***.<br>
