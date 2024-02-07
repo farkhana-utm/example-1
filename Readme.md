@@ -39,3 +39,10 @@ Italicized text is the _cat's meow_.<br>
 A *cat* meow<br>
 
 This text is ***really important***.<br>
+
+1. First item
+2. Second item
+3. Third item
+    1. Indented item
+    2. Indented item
+4. Fourth item
